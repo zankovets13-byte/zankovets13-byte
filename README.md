@@ -3,11 +3,13 @@
 
 ## 💫 About Me
 💻 Frontend Developer 
+
 🌍 Based in Ukraine
 
 
 ## 🗣️ Languages
 🇺🇦 Ukrainian — Native
+
 🇬🇧 English — Intermediate
 
 ## 🧰 My Stack
