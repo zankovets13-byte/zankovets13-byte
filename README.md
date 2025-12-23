@@ -1,12 +1,12 @@
-##Hi there, I'm Karina 👋
+## Hi there, I'm Karina 👋
 
 
-##💫 About Me
+## 💫 About Me
 💻 Frontend Developer 
 🌍 Based in Ukraine
 
 
-##🗣️ Languages
+## 🗣️ Languages
 🇺🇦 Ukrainian — Native
 🇬🇧 English — Intermediate
 
